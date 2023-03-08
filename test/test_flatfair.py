@@ -1,4 +1,4 @@
-from flatfair import calculate_membership_fee
+from src.flatfair import calculate_membership_fee
 import unittest
 
 
